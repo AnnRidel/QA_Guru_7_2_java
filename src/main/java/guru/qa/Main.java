@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Pokemon vulpix = new Pokemon();
         Pokemon jigglypuff = new Pokemon();
-        Pokemon snorlax = new Pokemon("Normal", "Thick Fat, Immunity", 143, "2.1 m", "460.0 kg", false);
+        Pokemon snorlax = new Pokemon("Normal", "Thick Fat, Immunity", 143 , "2.1 m", "460.0 kg", false);
         vulpix.weight = "9.9 kg";
         vulpix.height = "0.6 m";
         vulpix.abilities = "Flash Fire";

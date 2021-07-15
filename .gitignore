@@ -4,6 +4,9 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+gradlew.bat
+gradlew
+settings.gradle
 
 # Compiled class file
 *.class
@@ -49,3 +52,4 @@ bin/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+/gradle/
